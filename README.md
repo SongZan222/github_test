@@ -1,2 +1,2 @@
-# gitgub_test
+# github_test
 用来熟悉github操作的仓库
